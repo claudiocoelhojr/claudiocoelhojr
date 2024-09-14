@@ -4,7 +4,7 @@
 - 🧠 I’m looking to collaborate on projects at LabESC, the laboratory that I'm part of in my research project.
 - 📫 How to reach me: 1) Gmail: claudiocoelhosjr@gmail.com; LinkedIn: https://www.linkedin.com/in/claudiocoelhosjr/; Instagram: @claudiocjrrr
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I already studied electrical engineering and stopped the course. After that, until the final stretch of the entrance exam, I thought about studying administration but having learned Python made me want to study about development, and today I'm a Systems Information Student
+- ⚡ Fun fact: Interesting fact: I initially pursued electrical engineering but chose to discontinue. Later, while preparing for my entrance exams, I contemplated a degree in business administration. However, after discovering Python, my passion shifted toward development, and I am now a Systems Information student.
 
 <!---
 claudiocoelhojr/claudiocoelhojr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
