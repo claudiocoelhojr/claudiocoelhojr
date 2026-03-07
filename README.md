@@ -1,4 +1,4 @@
-# Olá, eu sou o Claudio 👋
+# Olá, eu sou o Claudio 🙂
 
 Estudante de **Sistemas de Informação (UNIRIO)** com foco em Dados e Desenvolvimento Full-Stack.
 Estagiário de TI na **Bram Offshore** · Monitor de **Cálculo 1**
@@ -17,18 +17,10 @@ Estagiário de TI na **Bram Offshore** · Monitor de **Cálculo 1**
 ---
 
 ## 📚 Estudando atualmente
-
-- 📊 **Estatística** — fundamentos probabilísticos e inferência
-- 🤖 **Machine Learning** — algoritmos supervisionados e não supervisionados
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=claudiocoelhosjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiocoelhosjr&layout=compact&langs_count=7&theme=dark"/>
-</div>
+- 🐼 **Pandas**
+- 💡 **Scikit-learn**
+- 📊 **Estatística** 
+- 🤖 **Machine Learning**
 
 ---
 
