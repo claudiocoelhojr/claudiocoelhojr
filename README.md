@@ -1,5 +1,3 @@
-# Olá, eu sou o Claudio 🙂
-
 Estudante de **Sistemas de Informação (UNIRIO)** com foco em Dados.
 Estagiário de TI na **Bram Offshore** · Monitor de **Cálculo 1**
 
